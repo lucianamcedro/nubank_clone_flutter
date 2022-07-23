@@ -1,16 +1,10 @@
-# clone_nubank
+# Clone interface Nubank em desenvolvimento.
 
-A new Flutter project.
+Aplicativo Desenvolvido em Flutter, clone da interface do nubank para estudos.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+   <img width="250" height="542" src="https://user-images.githubusercontent.com/86168060/180617578-6cae0c5c-95bc-432e-af21-5a01b6a635d3.png">
+    <img width="250" height="542" src="https://user-images.githubusercontent.com/86168060/180617579-f128ce0b-fde6-4138-ae3c-6b1602701c54.png">
+    <img width="250" height="542" src="https://user-images.githubusercontent.com/86168060/180617576-25d1593f-9bd1-4d19-ab08-53546db072d5.png">
+   
+</p>
